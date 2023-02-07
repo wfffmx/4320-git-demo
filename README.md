@@ -2,3 +2,7 @@
 
 Actually learning git!!!
 
+# Topics 
+git clone
+git pull
+
