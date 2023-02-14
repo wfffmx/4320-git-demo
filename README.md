@@ -6,3 +6,6 @@ Actually learning git!!!
 git clone
 git pull
 
+## Project Requirements
+
+Teams must use git
